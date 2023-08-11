@@ -1,6 +1,6 @@
 <?php
 $con=mysqli_connect('localhost','root','','nic_task');
-//TEST GIT
+//TEST GIT vaa da vaada vva da
 ?>
 <!DOCTYPE html>
 <html lang="en">
